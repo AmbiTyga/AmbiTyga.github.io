@@ -1,0 +1,32 @@
+development:
+  - item: Python
+  - item: C/C++
+  - item: Java
+  - item: JavaScript
+  - item: Tensorflow
+  - item: Pytorch
+  - item: Flutter
+  - item: V-rep
+  - item: Raspbian
+
+# design:
+#   - item: sketch
+#   - item: adobe-photoshop
+#   - item: adobe-indesign
+#   - item: adobe-illustrator
+#   - item: invision
+
+tools:
+  - item: Git + Github
+  - item: Unix Commands
+  - item: PyCharm
+  - item: Arduino
+  - item: ArduPilot
+  - item: OverLeaf
+
+knowledge:
+  - item: Programming
+  - item: Machine Learning
+  - item: Research
+  - item: Robotics
+  - item: Designing
