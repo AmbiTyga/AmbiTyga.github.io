@@ -1,6 +1,6 @@
-# Personal Website V2 🚀🔥
+# My Personal Webpage 🚀🔥
 
-Hello! Thanks for checking out the repo for my latest portfolio website. This website isn't just my new portfolio, but also a personal project in and of itself. I think I've grown quite a bit as a developer & designer in the past year, so I wanted to create something to showcase some of what I've learned and done.
+Hello! Thanks for checking out the repo for my portfolio website. This website is for showing all the accomplishment I was able to achieve in my past college time. Since I am a developer, I need to keep check of my activity, so that everyone could acknowledge me and contact me for any help they need.
 
 ## Getting started
 - `npm install gulp-cli -g`
@@ -21,4 +21,5 @@ Hello! Thanks for checking out the repo for my latest portfolio website. This we
 - [Skrollr.js](https://github.com/Prinzhorn/skrollr) for parallax effects
 - [Formspree](https://formspree.io/) for a simple, sans-PHP contact form
 
-Let me know what you think!
+## Thanks
+I would like to thanks [Brittany Chiang](https://brittanychiang.com/) for letting me use her work, I really appreciate her work. All the designing and the animation was done by her. [This](https://github.com/bchiang7) is her Github profile. Please checkout her for more beautiful ideas.
