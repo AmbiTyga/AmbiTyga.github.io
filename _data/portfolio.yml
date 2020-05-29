@@ -70,7 +70,7 @@
 
   code: https://github.com/AmbiTyga/hiLyted
   description: hiLyted is a project which clips highlights of video. It is based on the method of short time energy in audios extracted from a video. It captures the time period containing high pitch sound considering it as audience applause during the tournament. It downloads the video and audio from youtube using youtube-dl and extracts audio feature using Librosa, with the help of MoviePy it clips the time period of the highlights and saves it in a local directory.
-  img: hilyted
+  img: hiLyted
   used:
     - thing: Youtube-dl
     - thing: Librosa
