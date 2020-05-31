@@ -103,13 +103,13 @@
         display: inline-block;
         border: 2px solid rgba(57,57,57,.5);
         border-radius: 50%;
-        /*text-align: center;
+        text-align: center;
         margin: 10px 10px 10px 0;
-        padding: 0px;*/
+        padding: 0px;
         width: 100px;
         height: 100px;
         line-height: 7;
-        //font-size: 14px;
+        font-size: 14px;
         @include MQ(L) {
           width: 80px;
           height: 80px;
@@ -127,11 +127,7 @@
           width: 80px;
           height: 80px;
           line-height: 5.5;
-        } //new start
-        .item-img {
-          height: 40px;
-          filter: grayscale(100%);
-        } //new stop
+        } 
       }
     }
     .design-wrapper {
