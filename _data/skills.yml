@@ -1,19 +1,13 @@
 development:
-#   - item: sketch
-  - item: adobe-photoshop
-  - item: adobe-indesign
-  - item: adobe-illustrator
-  - item: invision
-
-#   - item: Python
-#   - item: C/C++
-#   - item: Java
-#   - item: JavaScript
-#   - item: Tensorflow
-#   - item: Pytorch
-#   - item: Flutter
-#   - item: V-rep
-#   - item: Raspbian
+  - item: Python
+  - item: C/C++
+  - item: Java
+  - item: JavaScript
+  - item: Tensorflow
+  - item: Pytorch
+  - item: Flutter
+  - item: V-rep
+  - item: Raspbian
 
 # design:
 #   - item: sketch
