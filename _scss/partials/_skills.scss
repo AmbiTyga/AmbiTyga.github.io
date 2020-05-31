@@ -101,8 +101,8 @@
       display: block;
       .dev-item {
         display: inline-block;
-        border: 2px solid rgba(57,57,57,.5);
-        border-radius: 50%;
+        //border: 2px solid rgba(57,57,57,.5);
+        //border-radius: 50%;
         //text-align: center;
         
         margin: 10px 10px 10px 0;
@@ -116,9 +116,7 @@
           height: 80px;
           font-size: 14px;
           line-height: 5.5;
-          margin-left:auto;
-          margin-right:auto;
-          //margin: 5px 5px 5px 0;
+          margin: 5px 5px 5px 0;
         }
         @include MQ(M) {
           width: 100px;
