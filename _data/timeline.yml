@@ -33,12 +33,12 @@
   sprite: university
   date: October 2019 - Present
 
-#- position: Software Engineer Co-op
-#  company: Starry
-#  url: https://starry.com/
-#  description: Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette, and CSS. Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station. Worked closely with designers and other developers to ensure thoughtful and coherent user experiences across Starry’s mobile apps.
-#  sprite: industry
-#  date: July - Dec 2016
+- position: Project Assistant
+ company: Laboratoire d'Informatique de Grenoble
+ url: https://www.liglab.fr/en
+ description: Assist in development and programming algorithms. Extract and clean the data along with provide statistical solutions to deal with them. Design neural network architecture to solve problems related to Natural language processing.
+ sprite: university
+ date: June 2020 - Present
 
 #- position: Developer
 #  company: Scout Studio
