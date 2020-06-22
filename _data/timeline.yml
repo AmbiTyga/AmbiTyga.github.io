@@ -34,11 +34,11 @@
   date: October 2019 - Present
 
 - position: Project Assistant
- company: Laboratoire d'Informatique de Grenoble
- url: https://www.liglab.fr/en
- description: Assist in development and programming algorithms. Extract and clean the data along with provide statistical solutions to deal with them. Design neural network architecture to solve problems related to Natural language processing.
- sprite: university
- date: June 2020 - Present
+  company: Laboratoire d'Informatique de Grenoble
+  url: https://www.liglab.fr/en
+  description: Assist in development and programming algorithms. Extract and clean the data along with provide statistical solutions to deal with them. Design neural network architecture to solve problems related to Natural language processing.
+  sprite: university
+  date: June 2020 - Present
 
 #- position: Developer
 #  company: Scout Studio
