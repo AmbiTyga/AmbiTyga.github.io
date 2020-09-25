@@ -10,7 +10,7 @@
   url: http://www.bitmesra.ac.in/
   description: Assisted a computer science Professor in the development of a research paper by implementing it and testing the code on the given data to provide analysis and results. Published two papers in IEEE BigMM and ICCCS2020. Developed remotely to meet weekly deadlines and project checkpoints during the pandemic.
   sprite: research
-  date: January 2020 - Present
+  date: January 2020 - May 2020
 
 #- position: Creative Technologist Co-op
 #  company: MullenLowe U.S.
@@ -31,15 +31,21 @@
   url: http://www.bitptechnical.in/
   description: Was one of the founding members and led projects on machine learning, IoT and robotics that were held by it. As a secretary organized a number of workshops for the benefits of the members as well as the interested. Helped them to understand the matters of IoT and machine learning betterly.
   sprite: university
-  date: October 2019 - Present
+  date: October 2019 - August 2020
 
 - position: Project Assistant
   company: Laboratoire d'Informatique de Grenoble
   url: https://www.liglab.fr/en
   description: Assist in development and programming algorithms. Extract and clean the data along with provide statistical solutions to deal with them. Design neural network architecture to solve problems related to Natural language processing.
   sprite: university
-  date: June 2020 - Present
+  date: June 2020 - July 2020
 
+- position: Research Assistant
+  company: Qatar Computing Research Institute
+  url: https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en
+  description: Working under Dr. Preslav Nakov on fake news data from snopes.com. Working on multimodality architecture using textual and graphical data to come up with new idea.
+  sprite: university
+  date: June 2020 - July 2020
 #- position: Developer
 #  company: Scout Studio
 #  url: http://www.northeastern.edu/scout/
