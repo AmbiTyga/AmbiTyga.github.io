@@ -39,13 +39,6 @@
   description: Assist in development and programming algorithms. Extract and clean the data along with provide statistical solutions to deal with them. Design neural network architecture to solve problems related to Natural language processing.
   sprite: university
   date: June 2020 - July 2020
-
-- position: Research Assistant
-  company: Qatar Computing Research Institute
-  url: https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en
-  description: Working under Dr. Preslav Nakov on fake news data from snopes.com. Working on multimodality architecture using textual and graphical data to come up with new idea.
-  sprite: university
-  date: September 2020 - Present
 #- position: Developer
 #  company: Scout Studio
 #  url: http://www.northeastern.edu/scout/
