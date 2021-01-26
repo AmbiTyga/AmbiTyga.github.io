@@ -77,45 +77,34 @@
     - thing: MoviePy
     - thing: Python
 
-# - title: NU Women in Tech
-#   demo: http://nuwit.ccs.neu.edu/
-#   code: https://github.com/nuwit/website
-#   description: While serving as web chair for Northeastern University Women in Technology, I did a complete overhaul of the club website. I designed and developed the current website using Jekyll as a static site generator, and was responsible for the upkeeping and maintainence of the site.
-#   img: nuwit
-#   used:
-#     - thing: Jekyll
-#     - thing: Liquid
-#     - thing: Yaml
-#     - thing: HTML
-#     - thing: CSS
-#     - thing: Bootstrap
-#     - thing: jQuery
+- title: Automated-Medical-Assistance
 
-# - title: Fontipsums
-#   demo: http://brittanychiang.com/fontipsums
-#   code: https://github.com/bchiang7/fontipsums
-#   description: As a typography nerd, I wanted a way to visually see different font combinations together. I whipped up this simple website to display some of my favorite pairings combined with some fun lorem ipsum variations I found on the web. Over the course of creating this site, I learned a lot about web fonts and best practices.
-#   img: fontipsums
-#   used:
-#     - thing: HTML
-#     - thing: SCSS
+  code: https://github.com/AmbiTyga/Automated-Medical-Assistance
+  description: Automated Medical Assistance is my research, where we developed a conversational dialogue system that is able to provide better medication during the need of such and is able to answer any queries related to one’s health. 
+  img: AMS
+  used:
+    - thing: BERT,GPT2,BART
+    - thing: Hugging Face-Transformers
+    - thing: Pytorch
+- title: Analysis of Resource-efficient Predictive Models for Natural Language Processing
 
-# - title: One Card For All
-#   demo: http://onecardforall.org
-#   description: At MullenLowe, I helped build this 2015 holiday site around an algorithm that generated a holiday greeting to each and every person on the planet. We also accounted for newcomers being added at an amazing rate. Overall, the website is a tranquil, animated experience. As new names appear, visitors can watch them fall, like snowflakes, onto a stylized world map. Users can also find their own name and see it as part of the world collective. Check out this short <a href="http://us.mullenlowe.com/work/one-card-for-all/" target="_blank">video</a> describing the project!
-#   img: onecard
-#   used:
-#     - thing: HTML
-#     - thing: SCSS
-#     - thing: JavaScript
-#     - thing: jQuery
+  description: In this paper, we presented an analyses of the resource efficient predictive models, present in the machine learning field for resource constraint devices. These models try to minimize resource requirements like RAM and storage without hurting the accuracy much. We utilized these models on multiple benchmark natural language processing tasks, which were sentimental analysis, spam message detection, emotion analysis and fake news classification.
+  img: RNLP
+  used:
+    - thing: Binary Neighbor Compression
+    - thing: Random Forest
+    - thing: SVM
+    - thing: Naive Bayes
+    - thing: ProtoNN
+    - thing: Bonsai Tree
 
-# - title: JetBlue HumanKinda
-#   demo: https://us.mullenlowe.com/work/humankinda/
-#   description: During my first co-op as a creative technologist at Mullen Lowe, I played a major role in the development of this Tumblr site to complement JetBlue's HumanKinda campaign and documentary. The site houses the video documentary at the top, the many graphics created by Mullen for the campaign, and an interactive quiz to determine how "HumanKinda" you are. Learn more about this project <a href="http://us.mullenlowe.com/work/humankinda/" target="_blank">here</a>!
-#   img: humankinda
-#   used:
-#     - thing: HTML
-#     - thing: CSS
-#     - thing: JavaScript
-#     - thing: jQuery
+- title: Character Level Pretrained Language Model for Extracting Support Phrases for Sentiment Labels
+
+  description: A novel character-level pretrained language model framework which utilizes the transformers and character-level language models to extract sentiment phrases. 
+  img: clplm
+  used:
+    - thing: Hugging Face-Transformers
+    - thing: Char-level Transformers
+    - thing: RNN
+    - thing: CNN
+    - thing: WaveNet
