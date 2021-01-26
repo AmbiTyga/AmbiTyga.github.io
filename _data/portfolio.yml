@@ -4,7 +4,9 @@
   description: Automated Medical Assistance is my research, where we developed a conversational dialogue system that is able to provide better medication during the need of such and is able to answer any queries related to one’s health. 
   img: AMS
   used:
-    - thing: BERT,GPT2,BART
+    - thing: BERT
+    - thing: GPT2
+    - thing: BART
     - thing: Hugging Face-Transformers
     - thing: Pytorch
 - title: Analysis of Resource-efficient Predictive Models for Natural Language Processing
