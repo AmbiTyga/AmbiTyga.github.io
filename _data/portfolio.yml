@@ -1,3 +1,34 @@
+- title: Automated-Medical-Assistance
+
+  code: https://github.com/AmbiTyga/Automated-Medical-Assistance
+  description: Automated Medical Assistance is my research, where we developed a conversational dialogue system that is able to provide better medication during the need of such and is able to answer any queries related to one’s health. 
+  img: AMS
+  used:
+    - thing: BERT,GPT2,BART
+    - thing: Hugging Face-Transformers
+    - thing: Pytorch
+- title: Analysis of Resource-efficient Predictive Models for Natural Language Processing
+
+  description: In this paper, we presented an analyses of the resource efficient predictive models, present in the machine learning field for resource constraint devices. These models try to minimize resource requirements like RAM and storage without hurting the accuracy much. We utilized these models on multiple benchmark natural language processing tasks, which were sentimental analysis, spam message detection, emotion analysis and fake news classification.
+  img: RNLP
+  used:
+    - thing: Binary Neighbor Compression
+    - thing: Random Forest
+    - thing: SVM
+    - thing: Naive Bayes
+    - thing: ProtoNN
+    - thing: Bonsai Tree
+
+- title: Character Level Pretrained Language Model for Extracting Support Phrases for Sentiment Labels
+
+  description: A novel character-level pretrained language model framework which utilizes the transformers and character-level language models to extract sentiment phrases. 
+  img: clplm
+  used:
+    - thing: Hugging Face-Transformers
+    - thing: Char-level Transformers
+    - thing: RNN
+    - thing: CNN
+    - thing: WaveNet
 - title: MemSem
 
   code: https://github.com/AmbiTyga/MemSem
@@ -77,34 +108,3 @@
     - thing: MoviePy
     - thing: Python
 
-- title: Automated-Medical-Assistance
-
-  code: https://github.com/AmbiTyga/Automated-Medical-Assistance
-  description: Automated Medical Assistance is my research, where we developed a conversational dialogue system that is able to provide better medication during the need of such and is able to answer any queries related to one’s health. 
-  img: AMS
-  used:
-    - thing: BERT,GPT2,BART
-    - thing: Hugging Face-Transformers
-    - thing: Pytorch
-- title: Analysis of Resource-efficient Predictive Models for Natural Language Processing
-
-  description: In this paper, we presented an analyses of the resource efficient predictive models, present in the machine learning field for resource constraint devices. These models try to minimize resource requirements like RAM and storage without hurting the accuracy much. We utilized these models on multiple benchmark natural language processing tasks, which were sentimental analysis, spam message detection, emotion analysis and fake news classification.
-  img: RNLP
-  used:
-    - thing: Binary Neighbor Compression
-    - thing: Random Forest
-    - thing: SVM
-    - thing: Naive Bayes
-    - thing: ProtoNN
-    - thing: Bonsai Tree
-
-- title: Character Level Pretrained Language Model for Extracting Support Phrases for Sentiment Labels
-
-  description: A novel character-level pretrained language model framework which utilizes the transformers and character-level language models to extract sentiment phrases. 
-  img: clplm
-  used:
-    - thing: Hugging Face-Transformers
-    - thing: Char-level Transformers
-    - thing: RNN
-    - thing: CNN
-    - thing: WaveNet
