@@ -1,7 +1,7 @@
 - title: Automated-Medical-Assistance
 
   code: https://github.com/AmbiTyga/Automated-Medical-Assistance
-  description: Automated Medical Assistance is my research, where we developed a conversational dialogue system that is able to provide better medication during the need of such and is able to answer any queries related to one’s health. 
+  description: Automated Medical Assistance is my research, where we developed a conversational dialogue system that is able to provide better consultation during the need and is able to answer any queries related to one’s health. 
   img: AMS
   used:
     - thing: BERT
