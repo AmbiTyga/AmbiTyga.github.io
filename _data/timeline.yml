@@ -5,6 +5,14 @@
   sprite: university
   date: 2017 - Present
 
+- position: Research Intern
+  company: ENSTA Paris
+  url: https://www.ensta-paris.fr/
+  description: Working under Researcher Natalia Díaz Rodríguez on analyzing parisitic images to classify their taxonomy.
+  sprite: research
+  date: February 2021 - Present
+
+
 - position: Research Assistant
   company: Birla institute of Technology, Mesra
   url: http://www.bitmesra.ac.in/
