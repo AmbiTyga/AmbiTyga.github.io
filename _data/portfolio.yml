@@ -87,17 +87,16 @@
 #   - thing: React.js
 #   - thing: CSS
 
-# - title: Old Personal Website
-
-#   code: https://github.com/bchiang7/website_2015/
-#   description: This was my first portfolio website I built in 2014. It's a simple one-pager like this one, but relied heavily on Bootstrap. Since then, I think my web development and design skills have expanded immensely.
-#   img: websitev1
-#   used:
-#   - thing: HTML
-#   - thing: CSS
-#   - thing: Bootstrap
-#   - thing: JavaScript
-#   - thing: jQuery
+- title: Tweeple-DNA
+  code: https://github.com/AmbiTyga/Tweeple-DNA
+  description: Tweeple DNA is a FastAPI based project that classifies twitter-people's account into bot or human, as well as assigns probabilty for being a bot ranging from 0-1.
+  img: tweety
+  used:
+  - thing: zlib
+  - thing: XGBoost
+  - thing: lightGBM
+  - thing: tweepy
+  - thing: FastAPI
 
 - title: hiLyted
 

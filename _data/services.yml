@@ -2,9 +2,9 @@
   services:
     - heading: Academics
       sprite: webdev
-      text: Pursuing my bachelor's engineering course from Birla Institute of Technology, Mesra to be able to tackle problems that current society faces
+      text: Completed my bachelor's engineering course from Birla Institute of Technology, Mesra. Solving daily problems through my skills and experience.
 
-    - heading: Data Science
+    - heading: Machine Learning
       sprite: ui
       text: Practicing machine learning and data science. Getting my hands dirty on kaggle dataset and understanding methods proposed by researchers in their work.
 - row: row2
@@ -15,4 +15,4 @@
 
     - heading: Secretary
       sprite: wit
-      text: I am the secretary, technical support and one of the people who established the <strong>Technical Club at Birla Institute of Technology</strong> aiming to provide a platform for students intrigued by the concepts of machine learning  and IoT and to make them aware of the current working ambience in this field by encouraging them to take part in different competitions and research.
+      text: I was a former secretary, technical support and one of the people who established the <strong>Technical Club at Birla Institute of Technology</strong> aiming to provide a platform for students intrigued by the concepts of machine learning  and IoT and to make them aware of the current working ambience in this field by encouraging them to take part in different competitions and research.

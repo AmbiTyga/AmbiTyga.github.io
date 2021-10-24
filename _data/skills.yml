@@ -5,8 +5,8 @@ development:
   - item: JavaScript
   - item: Tensorflow
   - item: Pytorch
-  - item: Flutter
-  - item: V-rep
+  - item: Blender
+  - item: Unity
   - item: Raspbian
 
 # design:

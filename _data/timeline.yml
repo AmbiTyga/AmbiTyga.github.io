@@ -1,9 +1,16 @@
+- position: ML Intern
+  company: hike.in
+  url: https://www.hike.in/
+  description: Machine learning engineer intern, implementing machine learning models and learning different approaches to solve business problems. Coordinating with team, and managing project development.
+  sprite: university
+  date: 2021 - Present
+
 - position: Undergraduate Student
   company: Birla institute of Technology, Mesra
   url: http://www.bitmesra.ac.in/
   description: Candidate for Bachelor of Engineering in Computer Science &amp; Engineering with a concentration in Machine learning and a minor in Robotics. <strong>Graduating in Spring 2021.</strong>
   sprite: university
-  date: 2017 - Present
+  date: 2017 - 2021
 
 - position: Research Intern
   company: ENSTA Paris
