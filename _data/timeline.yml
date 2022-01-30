@@ -1,9 +1,16 @@
+- position: ML Engineer
+  company: hike.in
+  url: https://www.hike.in/
+  description: Machine learning engineer, working on speech technologies and their applications in deep learning.
+  sprite: university
+  date: December 2021 - Present
+  
 - position: ML Intern
   company: hike.in
   url: https://www.hike.in/
   description: Machine learning engineer intern, implementing machine learning models and learning different approaches to solve business problems. Coordinating with team, and managing project development.
   sprite: university
-  date: 2021 - Present
+  date: September 2021 - November 2021
 
 - position: Undergraduate Student
   company: Birla institute of Technology, Mesra
